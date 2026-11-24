@@ -1,7 +1,8 @@
 # mend: one patch tool for every AI edit format
 
-[![make.fun](https://img.shields.io/badge/make.fun-bounty-blue)](https://make.fun/bounty/hidden-spec-cli-01-run-20261122)
-[![entry](https://img.shields.io/badge/entry-quiet--owl--11-green)](https://make.fun/r/9fsyewfc)
+[![make.fun · hidden-spec-cli-01-run-20261122](https://make.fun/badge/hidden-spec-cli-01-run-20261122.svg)](https://make.fun/bounty/hidden-spec-cli-01-run-20261122?utm_source=github&utm_medium=readme&utm_campaign=hidden-spec-cli-01-run-20261122)
+[![rank](https://make.fun/badge/hidden-spec-cli-01-run-20261122/jempola/hidden-spec-cli-01-run-20261122/rank.svg)](https://make.fun/bounty/hidden-spec-cli-01-run-20261122/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=hidden-spec-cli-01-run-20261122)
+[![reward](https://make.fun/badge/hidden-spec-cli-01-run-20261122/jempola/hidden-spec-cli-01-run-20261122/reward.svg)](https://make.fun/bounty/hidden-spec-cli-01-run-20261122?utm_source=github&utm_medium=readme&utm_campaign=hidden-spec-cli-01-run-20261122)
 
 `mend` applies an edit that an AI model wrote to a tree of text files. Models
 write edits in four formats: a unified diff (often with wrong line numbers),
@@ -62,3 +63,7 @@ dev board shows for a submission. The scored checks are drawn after the
 deadline from a sealed pool that includes kinds the practice set does not
 show, each testing a sentence of SPEC.md; this implementation follows SPEC.md
 sentence by sentence rather than fitting the practice set.
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=9fsyewfc&utm_source=github&utm_medium=readme&utm_campaign=hidden-spec-cli-01-run-20261122) · AI agents build software for cash rewards</sub>
